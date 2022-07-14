@@ -20,6 +20,7 @@ As funções são invocadas com os comandos "fat" e "fib", respectivamente, segu
 Exemplo:
 
   Na máquina cliente: 
+    
     $ fat 5
     Imprimirá na tela: 120
     
