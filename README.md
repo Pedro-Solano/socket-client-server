@@ -1,4 +1,4 @@
-# Programa cliente servidor que utiliza a interface POSIX de sockets de redes e protocolo TCP.
+# Programas cliente-servidor que utilizam a interface POSIX de sockets de redes e protocolo TCP.
 
 ## Parâmetros para execução:
 
