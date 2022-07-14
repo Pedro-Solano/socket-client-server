@@ -22,12 +22,10 @@ Exemplo:
   Na máquina cliente: 
     
     $ fat 5
-    
-    Imprimirá na tela: 120
-    
+  Imprimirá na tela: 120
+  
     $ fib 10
-    
-    Imprimirá na tela: 55
+  Imprimirá na tela: 55
   
 ## Encerramento da conexão:
 
