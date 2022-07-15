@@ -2,7 +2,7 @@
 
 ## Parâmetros para execução:
 
-O programa server.c recebe dois parâmetros: tipo de endereço <v4> ou <v6> e o número da porta.
+O programa server.c recebe dois parâmetros: tipo de endereço (v4 ou v6) e o número da porta.
 
     Ex.: $ ./server v4 51511
     
