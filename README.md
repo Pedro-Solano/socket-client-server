@@ -1,13 +1,13 @@
-# Programa cliente-servidor que utiliza a interface POSIX de sockets de redes e protocolo TCP.
+# Programa cliente-servidor que utiliza a interface de sockets e protocolo TCP.
 
 ## Parâmetros para execução:
 
-O programa servidor recebe dois parâmetros: tipo de endereço (<v4> ou <v6>) e o número da porta.
+O programa server.c recebe dois parâmetros: tipo de endereço <v4> ou <v6> e o número da porta.
 
     Ex.: $ ./server v4 51511
     
 
-O programa cliente recebe dois parâmetros: o endereço IP e a porta do servidor para estabelecimento da conexão.
+O programa client.c recebe dois parâmetros: o endereço IP e a porta do servidor para estabelecimento da conexão.
 
     Ex.: $ ./client 127.0.0.1 51511
 
